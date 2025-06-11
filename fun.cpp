@@ -1,0 +1,6 @@
+#include<iostream>
+using namespace std;
+int main(){
+	cout<<"SHadab\n";
+	return 0;
+}
